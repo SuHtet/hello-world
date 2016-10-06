@@ -1,2 +1,3 @@
 # hello-world
-A Repository
+
+Hello, This is Su. I am from Burma. I am a fulltime student at CSUF.
